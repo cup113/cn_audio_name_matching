@@ -1,0 +1,6 @@
+**/node_modules
+**/__pycache__
+**/dist
+/tmp/*
+/save_models/*
+/src/server/names.txt

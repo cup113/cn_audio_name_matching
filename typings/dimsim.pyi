@@ -1,0 +1,3 @@
+from typing import Literal
+
+def get_distance(pinyin_a: list[str], pinyin_b: list[str], pinyin: Literal[True]) -> float: ...
